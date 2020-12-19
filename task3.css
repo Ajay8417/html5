@@ -1,0 +1,127 @@
+body{
+    width: 100%;
+    height: 100%;
+}
+.l{
+    
+    width: 95%;
+    height: auto;
+    
+    margin: auto;
+}
+#right-nav{
+    float:right;
+    padding-right: 20px;
+    
+}
+#right-nav li{
+    display: inline-block;
+    margin: 10px;
+
+}
+.s1 {
+    height: 20px;
+    width: 100%;
+    margin-top:0px   
+}
+h3{
+    padding-left: 15px;
+}
+.c1{
+    background-color: darkgray;
+    height: 32%;
+    width: 100%;
+}
+h4{
+    padding-top: 25px;
+    padding-left: 15px;
+}
+#e{
+    
+    width: 12%;
+    height:auto%;
+    font-size: 12px;
+    padding-left: 16px;
+}
+.b{
+    margin-left: 17px;
+}
+.c2{
+    
+    width: 100%;
+    height: 55%;
+    margin-top:20px ;
+
+}
+.c3{
+
+    width:25%;
+    height: 100%;
+    margin-left: 5%;
+    margin-right: 25px ;
+    float: left;
+
+}
+.d1{
+    background-color: darkgrey;
+    width:100%;
+    height: 40%;
+}
+.d2{
+    text-align: center;
+    margin-left:10% ;
+    margin-right:10% ;
+}
+#a1{
+    color: black;
+}
+.submit{
+    background-color: darkgray;
+    width: 100%;
+    height: 55px;
+    margin-top:5px ;
+}
+.te{
+    
+    height: 30px;
+    width: 80%;
+    float: right;
+    margin-top: 15px;
+    margin-right: 100px;
+}
+#pl{
+    height:30px;
+    width: 50%;
+
+}
+#sub{
+    background-color: blue;
+    width: 33%;
+    height: 30px;
+    float:right;
+    color: white;
+    border: none;
+
+}
+#d4{
+    font-size: 20px;
+    margin-right:5%;
+    
+}
+
+
+
+footer{
+    margin-top: 10px;
+    clear: both;
+    height: 30px;
+    width: 100%;
+}
+#d15{
+    margin-right:10%;
+    float: right;
+
+}
+#d14{
+    margin-left:10% ;
+}
